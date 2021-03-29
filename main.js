@@ -21,9 +21,7 @@ for (const heart of likeButtons) {
   })
 }
 document.addEventListener('DOMContentLoaded', function() {
-
 })
-
 
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
